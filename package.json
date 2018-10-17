@@ -1,0 +1,14 @@
+{
+  "name": "@ack_inc/util",
+  "version": "1.0.0",
+  "description": "Some utility functions for string and object manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Anirudh Nimmagadda <anirudh.nimmagadda@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
